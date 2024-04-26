@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ldlApp</string>
+    <string name="item_label">Items</string>
+</resources>
